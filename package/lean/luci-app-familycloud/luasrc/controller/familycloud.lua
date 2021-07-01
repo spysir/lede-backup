@@ -6,7 +6,7 @@ function index()
 		return
 	end
 
-	entry({"admin", "services", "familycloud"}, firstchild(), _("天翼家庭云/云盘提速"), 80).dependent = false
+	entry({"admin", "services", "familycloud"}, firstchild(), _("云盘提速"), 80).dependent = false
 	
 	entry({"admin", "services", "familycloud", "general"}, cbi("familycloud/familycloud"), _("Base Setting"), 1)
 	entry({"admin", "services", "familycloud", "log"}, form("familycloud/familycloudlog"), _("Log"), 2)
