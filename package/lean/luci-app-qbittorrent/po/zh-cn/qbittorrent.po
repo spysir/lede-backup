@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 2.3.1\n"
 
 msgid "qbittorrent"
-msgstr "qbittorrent"
+msgstr "QBittorrent"
 
 msgid "Running"
 msgstr "运行中"
