@@ -17,7 +17,7 @@ msgid "lastseen"
 msgstr "上次连接延时"
 
 msgid "EASY MESH"
-msgstr "EASY MESH"
+msgstr "EasyMesh"
 
 msgid "Settings"
 msgstr "设置"
@@ -38,7 +38,7 @@ msgid "AUTO"
 msgstr "自动"
 
 msgid "Enable or disable EASY MESH"
-msgstr "启用或禁用EASY MESH"
+msgstr "启用或禁用EasyMesh"
 
 msgid "Encryption"
 msgstr "加密"
