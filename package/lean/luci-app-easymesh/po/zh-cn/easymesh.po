@@ -17,7 +17,7 @@ msgid "lastseen"
 msgstr "上次连接延时"
 
 msgid "EASY MESH"
-msgstr "简单MESH"
+msgstr "EASY MESH"
 
 msgid "Settings"
 msgstr "设置"
