@@ -38,7 +38,7 @@ msgid "AUTO"
 msgstr "自动"
 
 msgid "Enable or disable EASY MESH"
-msgstr "启用或禁用简单MESH"
+msgstr "启用或禁用EASY MESH"
 
 msgid "Encryption"
 msgstr "加密"
