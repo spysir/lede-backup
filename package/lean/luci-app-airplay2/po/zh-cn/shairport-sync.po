@@ -14,16 +14,16 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 
 msgid "AirPlay 2 Receiver"
-msgstr "AirPlay 2 音频接收器"
+msgstr "AirPlay2"
 
 msgid "Respawn"
 msgstr "进程守护"
 
 msgid "Apple AirPlay 2 Receiver"
-msgstr "Apple AirPlay 2 无损音频接收服务器"
+msgstr "Apple AirPlay2 无损音频接收服务器"
 
 msgid "Apple AirPlay 2 Receiver is a simple AirPlay server implementation"
-msgstr "Apple AirPlay 2 是一个强大易用的无损音频服务器( iOS/MacOSX 原生支持)"
+msgstr "Apple AirPlay2 是一个强大易用的无损音频服务器( iOS/MacOSX 原生支持)"
 
 msgid "Airport Name"
 msgstr "音频接收器名称"
