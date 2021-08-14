@@ -1,6 +1,6 @@
 
 msgid "Unblock Netease Music"
-msgstr "解锁网易音乐"
+msgstr "解锁音乐"
 
 msgid "Base Setting"
 msgstr "基本设置"
